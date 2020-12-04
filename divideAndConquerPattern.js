@@ -6,7 +6,7 @@
 //Binary Search
 //given sorted array of integers
 //accepts an array of values and a single value and returns index of the array where that single value is found
-//faster than linary when data is sorted.. common in complex situations
+//faster than linear when data is sorted.. common in complex situations
 function search(array, val) {
   //beginning of array
   let min = 0;
